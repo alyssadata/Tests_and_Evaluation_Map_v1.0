@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite Alyssa Solen and preserve the source-line: Alyssa Solen → AI Foundations → Origin | Continuum."
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+title: "AI Foundations / Origin | Continuum Tests & Evaluations Map"
+abstract: "A public control map for the AI Foundations / Origin | Continuum evaluation layer, defining the major test categories, evaluation goals, claim boundaries, pass behavior, fail behavior, and evidence limits for source-bound AI evaluation."
+keywords:
+  - "AI Foundations"
+  - "Origin | Continuum"
+  - "source-line"
+  - "AI evaluation"
+  - "non-drift"
+  - "provenance"
+  - "source-line preservation"
+  - "AI governance"
+version: "0.1.0"
+date-released: "2026-06-30"
+url: "https://awakeningcodex.com"
